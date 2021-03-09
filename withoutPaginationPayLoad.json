@@ -1,0 +1,1586 @@
+{
+    "payload": {
+        "purchaseOrderNumber": "7WHTMHEM",
+        "purchaseOrderState": "Acknowledged",
+        "orderDetails": {
+            "purchaseOrderDate": "2020-10-19T06:37:34Z",
+            "purchaseOrderChangedDate": "2020-10-24T01:55:10Z",
+            "purchaseOrderStateChangedDate": "2020-10-19T13:05:28Z",
+            "purchaseOrderType": "RegularOrder",
+            "paymentMethod": "Invoice",
+            "buyingParty": {
+                "partyId": "FTW1"
+            },
+            "sellingParty": {
+                "partyId": "FRJJX"
+            },
+            "shipToParty": {
+                "partyId": "FTW1"
+            },
+            "billToParty": {
+                "partyId": "FTW1"
+            },
+            "deliveryWindow": "2020-10-19T07:00:00Z--2020-10-26T07:00:00Z",
+            "items": [
+                {
+                    "itemSequenceNumber": "11",
+                    "amazonProductIdentifier": "B071J7HRJ1",
+                    "vendorProductIdentifier": "00028400676595",
+                    "orderedQuantity": {
+                        "amount": 396,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "79",
+                    "amazonProductIdentifier": "B08D7JMK9N",
+                    "vendorProductIdentifier": "00893594002211",
+                    "orderedQuantity": {
+                        "amount": 35,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "11.54"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "13.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "80",
+                    "amazonProductIdentifier": "B08D7JMK9P",
+                    "vendorProductIdentifier": "00810607023162",
+                    "orderedQuantity": {
+                        "amount": 287,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.77"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "73",
+                    "amazonProductIdentifier": "B08D5675VN",
+                    "vendorProductIdentifier": "00028400521383",
+                    "orderedQuantity": {
+                        "amount": 1,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "30.11"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "30.11"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "21",
+                    "amazonProductIdentifier": "B073S4TP58",
+                    "vendorProductIdentifier": "00028400489881",
+                    "orderedQuantity": {
+                        "amount": 198,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "58",
+                    "amazonProductIdentifier": "B07MM346S9",
+                    "vendorProductIdentifier": "00028400225939",
+                    "orderedQuantity": {
+                        "amount": 60,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "18"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "19.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "2",
+                    "amazonProductIdentifier": "B00BIDU9JA",
+                    "vendorProductIdentifier": "00028400029407",
+                    "orderedQuantity": {
+                        "amount": 1122,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "51",
+                    "amazonProductIdentifier": "B07FWN13WX",
+                    "vendorProductIdentifier": "00028400203449",
+                    "orderedQuantity": {
+                        "amount": 30,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "53",
+                    "amazonProductIdentifier": "B07JHFSTKB",
+                    "vendorProductIdentifier": "00028400319911",
+                    "orderedQuantity": {
+                        "amount": 156,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "27.49"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "29.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "7",
+                    "amazonProductIdentifier": "B01FUI2N56",
+                    "vendorProductIdentifier": "00013971002829",
+                    "orderedQuantity": {
+                        "amount": 72,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "17.94"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "27.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "78",
+                    "amazonProductIdentifier": "B08D7JM1X2",
+                    "vendorProductIdentifier": "00810607022967",
+                    "orderedQuantity": {
+                        "amount": 409,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "11.54"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "13.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "14",
+                    "amazonProductIdentifier": "B071SL8G5K",
+                    "vendorProductIdentifier": "00028400676557",
+                    "orderedQuantity": {
+                        "amount": 132,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "70",
+                    "amazonProductIdentifier": "B08826C8CZ",
+                    "vendorProductIdentifier": "00028400481472",
+                    "orderedQuantity": {
+                        "amount": 24,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "16.42"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "19.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "42",
+                    "amazonProductIdentifier": "B079ZLJTGY",
+                    "vendorProductIdentifier": "00028400121378",
+                    "orderedQuantity": {
+                        "amount": 308,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "12",
+                    "amazonProductIdentifier": "B071KF6791",
+                    "vendorProductIdentifier": "00028400674652",
+                    "orderedQuantity": {
+                        "amount": 1296,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "16.55"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "17.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "68",
+                    "amazonProductIdentifier": "B08825ZNPC",
+                    "vendorProductIdentifier": "00028400426237",
+                    "orderedQuantity": {
+                        "amount": 135,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "15.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "32",
+                    "amazonProductIdentifier": "B076H52GTD",
+                    "vendorProductIdentifier": "00028400104319",
+                    "orderedQuantity": {
+                        "amount": 56,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.25"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "20",
+                    "amazonProductIdentifier": "B073QMN75M",
+                    "vendorProductIdentifier": "00028400020480",
+                    "orderedQuantity": {
+                        "amount": 1320,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "12.46"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "13.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "30",
+                    "amazonProductIdentifier": "B076H2J9TZ",
+                    "vendorProductIdentifier": "00028400104128",
+                    "orderedQuantity": {
+                        "amount": 4620,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "61",
+                    "amazonProductIdentifier": "B07WF9TGL1",
+                    "vendorProductIdentifier": "00028400306805",
+                    "orderedQuantity": {
+                        "amount": 132,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "50",
+                    "amazonProductIdentifier": "B07FWKJF53",
+                    "vendorProductIdentifier": "00028400190534",
+                    "orderedQuantity": {
+                        "amount": 66,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "28",
+                    "amazonProductIdentifier": "B076DBRPBJ",
+                    "vendorProductIdentifier": "00028400104067",
+                    "orderedQuantity": {
+                        "amount": 66,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "35",
+                    "amazonProductIdentifier": "B076HCHQQZ",
+                    "vendorProductIdentifier": "00028400104357",
+                    "orderedQuantity": {
+                        "amount": 287,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.25"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "71",
+                    "amazonProductIdentifier": "B0899D436V",
+                    "vendorProductIdentifier": "028400482257",
+                    "orderedQuantity": {
+                        "amount": 3,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "4.42"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "4.42"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "31",
+                    "amazonProductIdentifier": "B076H4HFDX",
+                    "vendorProductIdentifier": "00028400104371",
+                    "orderedQuantity": {
+                        "amount": 168,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.75"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "9",
+                    "amazonProductIdentifier": "B071J7HHS3",
+                    "vendorProductIdentifier": "00028400676656",
+                    "orderedQuantity": {
+                        "amount": 66,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "37",
+                    "amazonProductIdentifier": "B0792FZ3SR",
+                    "vendorProductIdentifier": "00028400106313",
+                    "orderedQuantity": {
+                        "amount": 168,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "22.04"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "22.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "45",
+                    "amazonProductIdentifier": "B07C1LFGZK",
+                    "vendorProductIdentifier": "10013971001478",
+                    "orderedQuantity": {
+                        "amount": 54,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "19.2"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "23.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "18",
+                    "amazonProductIdentifier": "B072C8HBGW",
+                    "vendorProductIdentifier": "00028400676618",
+                    "orderedQuantity": {
+                        "amount": 660,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "60",
+                    "amazonProductIdentifier": "B07VSX5RX8",
+                    "vendorProductIdentifier": "00028400278744",
+                    "orderedQuantity": {
+                        "amount": 392,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "17",
+                    "amazonProductIdentifier": "B072C8HBGV",
+                    "vendorProductIdentifier": "00028400676632",
+                    "orderedQuantity": {
+                        "amount": 198,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "33",
+                    "amazonProductIdentifier": "B076H6F974",
+                    "vendorProductIdentifier": "00028400104166",
+                    "orderedQuantity": {
+                        "amount": 66,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "48",
+                    "amazonProductIdentifier": "B07DQ5B2MP",
+                    "vendorProductIdentifier": "00028400185851",
+                    "orderedQuantity": {
+                        "amount": 198,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.62"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "75",
+                    "amazonProductIdentifier": "B08D7JC7DY",
+                    "vendorProductIdentifier": "00810607023070",
+                    "orderedQuantity": {
+                        "amount": 101,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.77"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "1",
+                    "amazonProductIdentifier": "B0046H515C",
+                    "vendorProductIdentifier": "00028400107907",
+                    "orderedQuantity": {
+                        "amount": 120,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "12.18"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "4",
+                    "amazonProductIdentifier": "B0146IM8ZG",
+                    "vendorProductIdentifier": "10013971001454",
+                    "orderedQuantity": {
+                        "amount": 90,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "17.94"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "25.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "10",
+                    "amazonProductIdentifier": "B071J7HQM2",
+                    "vendorProductIdentifier": "00028400676625",
+                    "orderedQuantity": {
+                        "amount": 528,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "6",
+                    "amazonProductIdentifier": "B01EAG3VZA",
+                    "vendorProductIdentifier": "00028400634540",
+                    "orderedQuantity": {
+                        "amount": 648,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "15.45"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "20.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "13",
+                    "amazonProductIdentifier": "B071LT3L25",
+                    "vendorProductIdentifier": "00028400676564",
+                    "orderedQuantity": {
+                        "amount": 1716,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "72",
+                    "amazonProductIdentifier": "B08D559HFQ",
+                    "vendorProductIdentifier": "00028400328180",
+                    "orderedQuantity": {
+                        "amount": 221,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.77"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "69",
+                    "amazonProductIdentifier": "B08825ZYDK",
+                    "vendorProductIdentifier": "00028400478946",
+                    "orderedQuantity": {
+                        "amount": 96,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "27",
+                    "amazonProductIdentifier": "B076BYR9JP",
+                    "vendorProductIdentifier": "00028400104180",
+                    "orderedQuantity": {
+                        "amount": 3000,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.5"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "49",
+                    "amazonProductIdentifier": "B07DQ9852M",
+                    "vendorProductIdentifier": "00028400187831",
+                    "orderedQuantity": {
+                        "amount": 528,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "36",
+                    "amazonProductIdentifier": "B0792F5T59",
+                    "vendorProductIdentifier": "00028400124652",
+                    "orderedQuantity": {
+                        "amount": 66,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "29",
+                    "amazonProductIdentifier": "B076DJ7ZZV",
+                    "vendorProductIdentifier": "00028400104036",
+                    "orderedQuantity": {
+                        "amount": 198,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "46",
+                    "amazonProductIdentifier": "B07C1ZY2LM",
+                    "vendorProductIdentifier": "28400147309",
+                    "orderedQuantity": {
+                        "amount": 40,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "11.1"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "13.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "24",
+                    "amazonProductIdentifier": "B075LZZ5MR",
+                    "vendorProductIdentifier": "00028400073752",
+                    "orderedQuantity": {
+                        "amount": 1650,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "23",
+                    "amazonProductIdentifier": "B0757Y9V47",
+                    "vendorProductIdentifier": "00028400058278",
+                    "orderedQuantity": {
+                        "amount": 462,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "66",
+                    "amazonProductIdentifier": "B084GWBZ3B",
+                    "vendorProductIdentifier": "00028400349239",
+                    "orderedQuantity": {
+                        "amount": 144,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "65",
+                    "amazonProductIdentifier": "B0829RJT64",
+                    "vendorProductIdentifier": "00013971003505",
+                    "orderedQuantity": {
+                        "amount": 35,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "17"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "18.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "34",
+                    "amazonProductIdentifier": "B076HBJLFS",
+                    "vendorProductIdentifier": "00028400104333",
+                    "orderedQuantity": {
+                        "amount": 112,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.25"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "5",
+                    "amazonProductIdentifier": "B01EAG3VUA",
+                    "vendorProductIdentifier": "00028400634571",
+                    "orderedQuantity": {
+                        "amount": 378,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "17.53"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "19.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "56",
+                    "amazonProductIdentifier": "B07L9W91CV",
+                    "vendorProductIdentifier": "00028400228435",
+                    "orderedQuantity": {
+                        "amount": 60,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "43",
+                    "amazonProductIdentifier": "B079ZLMSXB",
+                    "vendorProductIdentifier": "00028400149556",
+                    "orderedQuantity": {
+                        "amount": 180,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "19",
+                    "amazonProductIdentifier": "B072M1NC4M",
+                    "vendorProductIdentifier": "00028400676649",
+                    "orderedQuantity": {
+                        "amount": 396,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "3",
+                    "amazonProductIdentifier": "B00HKHX8BY",
+                    "vendorProductIdentifier": "00028400450959",
+                    "orderedQuantity": {
+                        "amount": 180,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "10.38"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "14.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "47",
+                    "amazonProductIdentifier": "B07DQ46CLX",
+                    "vendorProductIdentifier": "00028400185301",
+                    "orderedQuantity": {
+                        "amount": 210,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "26",
+                    "amazonProductIdentifier": "B076BP75BX",
+                    "vendorProductIdentifier": "00013971001082",
+                    "orderedQuantity": {
+                        "amount": 251,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "12"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "17.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "41",
+                    "amazonProductIdentifier": "B079ZGVVQ6",
+                    "vendorProductIdentifier": "00028400116084",
+                    "orderedQuantity": {
+                        "amount": 220,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "67",
+                    "amazonProductIdentifier": "B08825WYH3",
+                    "vendorProductIdentifier": "00013971003673",
+                    "orderedQuantity": {
+                        "amount": 56,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "22.07"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "23.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "52",
+                    "amazonProductIdentifier": "B07GP89KPN",
+                    "vendorProductIdentifier": "00028400206242",
+                    "orderedQuantity": {
+                        "amount": 198,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "82",
+                    "amazonProductIdentifier": "B08G2F18KZ",
+                    "vendorProductIdentifier": "00028400524001",
+                    "orderedQuantity": {
+                        "amount": 98,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "10.94"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "12.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "57",
+                    "amazonProductIdentifier": "B07L9WQT97",
+                    "vendorProductIdentifier": "00028400228794",
+                    "orderedQuantity": {
+                        "amount": 150,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "81",
+                    "amazonProductIdentifier": "B08D7JXG87",
+                    "vendorProductIdentifier": "00893594002174",
+                    "orderedQuantity": {
+                        "amount": 73,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "11.54"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "13.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "15",
+                    "amazonProductIdentifier": "B071YBJ6DH",
+                    "vendorProductIdentifier": "00028400929479",
+                    "orderedQuantity": {
+                        "amount": 330,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "11.95"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "12.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "8",
+                    "amazonProductIdentifier": "B07179XBP9",
+                    "vendorProductIdentifier": "00028400676571",
+                    "orderedQuantity": {
+                        "amount": 66,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "54",
+                    "amazonProductIdentifier": "B07KX9PFCW",
+                    "vendorProductIdentifier": "00028400224901",
+                    "orderedQuantity": {
+                        "amount": 36,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "74",
+                    "amazonProductIdentifier": "B08D7GVQ2D",
+                    "vendorProductIdentifier": "00893594002181",
+                    "orderedQuantity": {
+                        "amount": 162,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "11.54"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "13.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "25",
+                    "amazonProductIdentifier": "B075M59M4B",
+                    "vendorProductIdentifier": "00028400073783",
+                    "orderedQuantity": {
+                        "amount": 66,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "55",
+                    "amazonProductIdentifier": "B07L743PRH",
+                    "vendorProductIdentifier": "00028400227636",
+                    "orderedQuantity": {
+                        "amount": 576,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "19.3"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "20.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "77",
+                    "amazonProductIdentifier": "B08D7JLMZR",
+                    "vendorProductIdentifier": "00810607023056",
+                    "orderedQuantity": {
+                        "amount": 162,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.77"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "59",
+                    "amazonProductIdentifier": "B07RPQRK3V",
+                    "vendorProductIdentifier": "13971003130",
+                    "orderedQuantity": {
+                        "amount": 64,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "22.07"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "29.97"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "22",
+                    "amazonProductIdentifier": "B074N9Y8P9",
+                    "vendorProductIdentifier": "00028400029315",
+                    "orderedQuantity": {
+                        "amount": 462,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "39",
+                    "amazonProductIdentifier": "B0792TG31Z",
+                    "vendorProductIdentifier": "00028400136808",
+                    "orderedQuantity": {
+                        "amount": 132,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "62",
+                    "amazonProductIdentifier": "B0829QW53J",
+                    "vendorProductIdentifier": "00013971003321",
+                    "orderedQuantity": {
+                        "amount": 35,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "21.6"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "23.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "44",
+                    "amazonProductIdentifier": "B079ZW2MF2",
+                    "vendorProductIdentifier": "28400149570",
+                    "orderedQuantity": {
+                        "amount": 90,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "16",
+                    "amazonProductIdentifier": "B07262XS4K",
+                    "vendorProductIdentifier": "00028400676663",
+                    "orderedQuantity": {
+                        "amount": 264,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "13.83"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "63",
+                    "amazonProductIdentifier": "B0829QZFM7",
+                    "vendorProductIdentifier": "00013971003208",
+                    "orderedQuantity": {
+                        "amount": 35,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "17"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "18.49"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "38",
+                    "amazonProductIdentifier": "B0792LF5DZ",
+                    "vendorProductIdentifier": "00028400136655",
+                    "orderedQuantity": {
+                        "amount": 594,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.13"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.98"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "64",
+                    "amazonProductIdentifier": "B0829R7Q21",
+                    "vendorProductIdentifier": "00028400336406",
+                    "orderedQuantity": {
+                        "amount": 216,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.18"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "15.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "76",
+                    "amazonProductIdentifier": "B08D7JFYDB",
+                    "vendorProductIdentifier": "00810607023025",
+                    "orderedQuantity": {
+                        "amount": 396,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "14.77"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "16.99"
+                    }
+                },
+                {
+                    "itemSequenceNumber": "40",
+                    "amazonProductIdentifier": "B0792TG324",
+                    "vendorProductIdentifier": "00028400106337",
+                    "orderedQuantity": {
+                        "amount": 168,
+                        "unitOfMeasure": "Eaches",
+                        "unitSize": 1
+                    },
+                    "isBackOrderAllowed": false,
+                    "netCost": {
+                        "currencyCode": "USD",
+                        "amount": "20.12"
+                    },
+                    "listPrice": {
+                        "currencyCode": "USD",
+                        "amount": "20.99"
+                    }
+                }
+            ]
+        }
+    }
+}
